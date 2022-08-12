@@ -1,0 +1,5 @@
+export const GALAXY = 'Galaxy'
+export const STAR = 'Star'
+export const PLANET = 'Planet'
+export const MOON = 'Moon'
+export const SPECIES = 'Species'
